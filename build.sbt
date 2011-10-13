@@ -1,4 +1,4 @@
-name := "blank project"
+name := "blank project template"
 
 version := "1.0"
 
